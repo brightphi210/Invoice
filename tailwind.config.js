@@ -6,9 +6,9 @@ module.exports = {
     "./styles/globals.css",
   ],
 
-  images : {
-    domains : ['']
-  },
+  // images : {
+  //   domains : ['']
+  // },
   theme: {
     extend: {
 
