@@ -31,7 +31,7 @@ const SectionThree = () => {
         </section>
 
         <div className='px-40 pb-20 max-sm:px-8'>
-            <h2 className='text-center text-5xl pb-8 max-sm:text-2xl max-sm:pt-10 max-sm:pb-4'>Frequently Asked Questions</h2>
+            <h2 className='text-center text-5xl pb-8 max-sm:text-2xl max-sm:pt-10 max-sm:pb-4 '>Frequently Asked Questions</h2>
             <div className='grid grid-cols-2 gap-10 max-sm:block'>
                 <div className='col-span-1 bg-zinc-950 p-12 rounded-3xl max-sm:mb-6' >
                     <h2 className='text-2xl pb-5'>Can I add my business logo?</h2>

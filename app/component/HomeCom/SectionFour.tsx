@@ -5,7 +5,7 @@ import Image from 'next/image'
 const SectionFour = () => {
   return (
     <div>
-        <section className='myBg-gradient text-center py-28 max-sm:p-8'>
+        <section className=' text-center py-28 max-sm:p-8'>
             <p className='text-2xl max-sm:text-base'>Testimonials</p>
             <h2 className='text-4xl pt-5 pb-5 max-sm:text-2xl'>What people say about Us.</h2>
             <p className='text-xl pb-6 max-sm:text-sm '>

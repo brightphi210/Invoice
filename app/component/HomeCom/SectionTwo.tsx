@@ -14,7 +14,7 @@ const SectionTwo = () => {
             </div>
 
             <div className='grid grid-cols-2 gap-6 w-full max-sm:block max-sm:pt-5'>
-                <div className='col-span-1 bg-white py-16 px-10 text-black text-l max-sm:mb-5 max-sm:p-10 rounded-md myBtn-gradient2'>
+                <div className='col-span-1 bg-white py-16 px-10 text-black text-l max-sm:mb-5 max-sm:p-10 rounded-md '>
                     <h2 className='text-2xl'>Manage All Your Customers</h2>
                     <p>
                         Easily manage all your customers in one place, 
