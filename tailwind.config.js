@@ -6,9 +6,9 @@ module.exports = {
     "./styles/globals.css",
   ],
 
-  // images : {
-  //   domains : ['']
-  // },
+  images : {
+    domains : ['']
+  },
   theme: {
     extend: {
 
@@ -26,15 +26,15 @@ module.exports = {
 
 
 
-      boxShadow: {
-        'custom': 'rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;',
-      },
+      // boxShadow: {
+      //   'custom': 'rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;',
+      // },
 
       
-      backgroundImage: {
-        gradient:
-          "linear-gradient(60deg, #f79533, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82)",
-      },
+      // backgroundImage: {
+      //   gradient:
+      //     "linear-gradient(60deg, #f79533, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82)",
+      // },
       animation: {
         opacity: "opacity 0.25s ease-in-out",
         appearFromRight: "appearFromRight 300ms ease-in-out",
@@ -82,15 +82,15 @@ module.exports = {
       },
     },
   },
-  // plugins: [require("daisyui")],
-  // daisyui: {
-  //   themes: true, 
-  //   darkTheme: "dark",
-  //   base: true, 
-  //   styled: true, 
-  //   utils: true, 
-  //   rtl: false, 
-  //   prefix: "", 
-  //   logs: true, 
-  // },
+  plugins: [require("daisyui")],
+  daisyui: {
+    themes: true, 
+    darkTheme: "dark",
+    base: true, 
+    styled: true, 
+    utils: true, 
+    rtl: false, 
+    prefix: "", 
+    logs: true, 
+  },
 };
