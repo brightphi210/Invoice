@@ -1,13 +1,13 @@
-import React from 'react'
-import DashCreatePage from './DashCreatePage'
+// import React from 'react'
+// import DashCreatePage from './DashCreatePage'
 
 
-const paget = () => {
-  return (
-    <div>
-      <DashCreatePage />
-    </div>
-  )
-}
+// const paget = () => {
+//   return (
+//     <div>
+//       <DashCreatePage />
+//     </div>
+//   )
+// }
 
-export default paget
+// export default paget

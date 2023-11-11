@@ -1,12 +1,12 @@
-import React from 'react'
-import DashSettingPage from './DashSettingPage'
+// import React from 'react'
+// import DashSettingPage from './DashSettingPage'
 
-const page = () => {
-  return (
-    <div>
-        <DashSettingPage />
-    </div>
-  )
-}
+// const page = () => {
+//   return (
+//     <div>
+//         <DashSettingPage />
+//     </div>
+//   )
+// }
 
-export default page
+// export default page
