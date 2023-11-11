@@ -1,18 +1,18 @@
-'use clinet'
-import React from 'react'
-import DashHomePage from './DashHomePage'
+// 'use clinet'
+// import React from 'react'
+// import DashHomePage from './DashHomePage'
 
 
-const page = () => {
+// const page = () => {
 
-  return (
-    <div>
-      <DashHomePage />
-    </div>
-  )
-}
+//   return (
+//     <div>
+//       <DashHomePage />
+//     </div>
+//   )
+// }
 
-export default page
+// export default page
 
 
 

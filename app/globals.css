@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@100;200;300;400;500;600;700&family=Poppins:wght@100;200;300;600&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@100;200;300;400;500;600;700&family=Poppins:wght@100;200;300;600&display=swap');
 
-/* @tailwind base; */
-/* @tailwind components;
-@tailwind utilities; */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 html,
 body {
@@ -20,43 +20,42 @@ progress::-webkit-progress-value {
   transition: 0.6s width ease-out;
 }
 
-/* @layer base {
+@layer base {
   .btn-gradient {
     @apply !bg-gradient !bg-[length:300%_300%] hover:saturate-[1.2] shadow duration-100 !border-0 !border-transparent !bg-transparent animate-shimmer disabled:!bg-none disabled:!bg-gray-500/30  !text-white;
   }
   .btn {
     @apply !capitalize;
   }
-} */
 
-  /* .text-gradient{
+  .text-gradient{
     @apply !bg-clip-text text-transparent bg-gradient-to-r from-orange-300 to-white
-  } */
+  }
 
 
-  /* .myBtn-gradient{
+  .myBtn-gradient{
     @apply !bg-gradient-to-r to-purple-100 from-white
-  } */
+  }
 
-  /* .myBtn-gradient2{
+  .myBtn-gradient2{
     @apply !bg-gradient-to-r from-purple-100 to-white
-  } */
+  }
 
-  /* .myBgTwo-gradient2{
+  .myBgTwo-gradient2{
     @apply !bg-gradient-to-r to-purple-300 from-white
-  } */
+  }
 
 
-  /* .myBg-gradient{
+  .myBg-gradient{
     @apply !bg-gradient-to-r to-zinc-900 from-black
-  } */
+  }
 
-  /* .myBg2-gradient{
+  .myBg2-gradient{
     @apply !bg-gradient-to-r to-zinc-800 from-black
-  } */
+  }
 
-  /* .my-Font{
+  .my-Font{
     @apply !font-sans
-  } */
+  }
 
-/* } */
+} */

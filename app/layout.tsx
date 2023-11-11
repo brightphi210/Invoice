@@ -13,7 +13,8 @@ export const metadata = getSEOTags();
 
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
-    <html lang="en" data-theme='black' className={font.className}>
+    // data-theme='black'
+    <html lang="en"  className={font.className}>
       {config.domainName && (
         <head>
           <script
