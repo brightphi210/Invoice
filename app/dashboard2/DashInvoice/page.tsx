@@ -1,14 +1,14 @@
-// import React from 'react'
-// import InvoicePage from './InvoicePage'
+import React from 'react'
+import InvoicePage from './InvoicePage'
 
 
-// const page = () => {
+const page = () => {
 
-//   return (
-//     <div>
-//         <InvoicePage />
-//     </div>
-//   )
-// }
+  return (
+    <div>
+        <InvoicePage />
+    </div>
+  )
+}
 
-// export default page
+export default page
