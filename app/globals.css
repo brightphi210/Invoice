@@ -1,26 +1,26 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@100;200;300;400;500;600;700&family=Poppins:wght@100;200;300;600&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@100;200;300;400;500;600;700&family=Poppins:wght@100;200;300;600&display=swap');
 
-/* @tailwind base;
+@tailwind base;
 @tailwind components;
-@tailwind utilities; */
+@tailwind utilities;
 
-/* html,
+html,
 body {
   scroll-behavior: smooth !important;
-} */
+}
 
-/* *{
+*{
   padding: 0;
   margin: 0;
   box-sizing: border-box;
   font-family: 'Kanit', sans-serif;
-} */
+}
 
-/* progress::-webkit-progress-value {
+progress::-webkit-progress-value {
   transition: 0.6s width ease-out;
-} */
+}
 
-/* @layer base {
+@layer base {
   .btn-gradient {
     @apply !bg-gradient !bg-[length:300%_300%] hover:saturate-[1.2] shadow duration-100 !border-0 !border-transparent !bg-transparent animate-shimmer disabled:!bg-none disabled:!bg-gray-500/30  !text-white;
   }
@@ -58,4 +58,4 @@ body {
     @apply !font-sans
   }
 
-} */
+}
