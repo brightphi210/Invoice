@@ -20,7 +20,7 @@
 //                     finances so you  can focus on what matters most.
 //                 </p>
 //                 <button className='myBtn-gradient p-3 px-8 my-5 
-//                 text-black inline w-auto flex items-center rounded-md border-none' 
+//                 text-black w-auto flex items-center rounded-md border-none' 
 //                 >Get Started for free <span className='pl-6'><AiOutlineArrowRight /></span></button>
 //             </div>
 
